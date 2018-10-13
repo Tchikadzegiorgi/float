@@ -14,6 +14,13 @@ p {
 .active {
 	color: gray;
 }
+.fonttt {
+	font-family: 'Montserrat', sans-serif;
+}
+.kd222 {
+	font-family: 'K2D', sans-serif;
+	font-weight: bold;
+}
 /* header */
 
 .header {
